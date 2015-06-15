@@ -3,5 +3,7 @@
   "version": "1.0.0",
   "title": "jQuery.bottom",
   "description": "Trigger the bottom event when the user has scrolled to the bottom of an element",
-  "main": "./index"
+  "main": "./index",
+  "license": "Dual licensed under MIT and GPL.",
+  "author": "Jim Yi"
 }
