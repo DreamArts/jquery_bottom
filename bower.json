@@ -1,6 +1,6 @@
 {
   "name": "jquery_bottom",
-  "version": "1.0",
+  "version": "1.0.0",
   "title": "jQuery.bottom",
   "description": "Trigger the bottom event when the user has scrolled to the bottom of an element",
   "main": [
