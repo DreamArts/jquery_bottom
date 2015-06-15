@@ -3,6 +3,21 @@ Overview
 Adds a "bottom" event that will be triggered when the user has scrolled
 to the bottom or within proximity to the bottom of an element.
 
+
+## Webpack Extension
+
+##### Install
+```
+npm install git://github.com/DreamArts/jquery_bottom
+```
+
+##### Usage
+```
+var alertify = require("jquery_bottom");
+```
+
+----
+
 Syntax
 -------------
 $(element).bottom(options);
