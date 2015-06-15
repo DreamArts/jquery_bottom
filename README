@@ -13,7 +13,7 @@ npm install git://github.com/DreamArts/jquery_bottom
 
 ##### Usage
 ```
-var alertify = require("jquery_bottom");
+require("jquery_bottom");
 ```
 
 ----
